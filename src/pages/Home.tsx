@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { ArrowDown } from "lucide-react";
 import { Link } from "react-router-dom";
-import profileImg from "@/assets/image.png";
+import profileImg from "@/assets/mercy.png";
 import Footer from "@/components/Footer";
 
 const Home = () => {
